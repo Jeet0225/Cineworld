@@ -1,3 +1,28 @@
+# Project Overview
+
+### It is like hotstar clone. User can see here trending movies, star cast, rating, revenue and Trailer also.
+![Screenshot_20230112_200950](https://user-images.githubusercontent.com/95633934/212099032-bf73ce54-7d3c-48ab-902d-921dc5e6efe3.png)
+
+## Star Cast
+
+![Screenshot_20230112_201845](https://user-images.githubusercontent.com/95633934/212099174-9f3c09e0-b6c2-42ff-87d6-a50bcb06d6b7.png)
+
+## Language
+
+![Screenshot_20230112_201636](https://user-images.githubusercontent.com/95633934/212099341-9e2b2134-5203-45c1-acef-550069374ad5.png)
+
+## Trailer
+![Screenshot_20230112_201309](https://user-images.githubusercontent.com/95633934/212099503-e5a9f59c-e051-4990-867a-58d27a9da478.png)
+
+## Trending Movies
+
+![Screenshot_20230112_201155](https://user-images.githubusercontent.com/95633934/212099713-3c8b19ee-cffc-4c53-97f7-f8c9574e46d0.png)
+
+## Actor Biography
+
+![Screenshot_20230112_202752](https://user-images.githubusercontent.com/95633934/212100653-729867be-4c9c-499d-a236-2e86c40769e8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
